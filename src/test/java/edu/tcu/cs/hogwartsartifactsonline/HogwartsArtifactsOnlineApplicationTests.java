@@ -1,3 +1,4 @@
+
 package edu.tcu.cs.hogwartsartifactsonline;
 
 import org.junit.jupiter.api.Test;
