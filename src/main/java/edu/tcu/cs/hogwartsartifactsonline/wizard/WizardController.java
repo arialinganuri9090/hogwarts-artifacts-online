@@ -1,3 +1,4 @@
+
 package edu.tcu.cs.hogwartsartifactsonline.wizard;
 
 import edu.tcu.cs.hogwartsartifactsonline.system.Result;
